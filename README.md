@@ -81,5 +81,3 @@ We’re just getting started.
 * Feedback: Pull requests, issues, or kind words welcome 🙏
 
 > Built with 💙, no tracking, and infinite cups of coffee.
-
-remove the installation section i will add it later in a different file
