@@ -63,7 +63,7 @@ Download the `.exe` or `.msix` installer from the [Releases](https://github.com/
 ## 💬 Support + Feedback
 
 If you love ChainReact, you can support it here:  
-☕ [Buy Me a Coffee](https://buymeacoffee.com/vaiondev)
+☕ [Buy Me a Coffee](buymeacoffee.com/vaiondevelopers)
 
 Spotted a bug? [Open an issue](https://github.com/vaiondev/chainreact/issues) or drop a comment.  
 We listen.
