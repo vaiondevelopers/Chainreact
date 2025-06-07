@@ -67,7 +67,7 @@ This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/lic
 
 ## 🛡️ Anti-Copy Notice
 
-> ChainReact is a protected original work by [Vaion Developers](https://github.com/vaiondev).
+> ChainReact is a protected original work by [Vaion Developers](https://github.com/vaiondevelopers).
 > Any unauthorized rebranding or redistribution will result in DMCA takedown.
 
 ---
